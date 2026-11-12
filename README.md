@@ -117,3 +117,8 @@ results/figures/  # сохранённые графики
 2. arXiv:2210.10163
 
 Эслами С., де Мело Г., Мейнель К. MedCLIP: Contrastive Learning from Unpaired Medical Images and Text [Электронный ресурс]. — arXiv:2210.10163, 2022. — Режим доступа: https://arxiv.org/abs/2210.10163.
+
+ ## Авторы
+
+ Tanya & Masha
+ 
